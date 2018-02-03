@@ -10,7 +10,7 @@ install_composer(){
 
 }
 
-install_php(){
+install_php7.1(){
 
      sudo add-apt-repository ppa:ondrej/php
      sudo apt-get update
